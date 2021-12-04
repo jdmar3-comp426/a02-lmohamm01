@@ -11,12 +11,13 @@
     "url": "git+https://github.com/jdmar3-comp426/a02-lmohamm01.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "AGPL-3.0-only",
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-lmohamm01/issues"
   },
   "homepage": "https://github.com/jdmar3-comp426/a02-lmohamm01#readme",
   "dependencies": {
     "bulma": "^0.9.3"
-  }
+  },
+  "devDependencies": {}
 }
